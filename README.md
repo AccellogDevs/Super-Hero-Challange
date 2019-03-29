@@ -12,9 +12,11 @@ Seja bem vindo ao Super Hero teste da Accellog Global Tech. Nos próximos instan
  * CA1 - A listagem deve apresentar no mínimo 10 super heróis diferentes.
  * CA2 - Em cada item, deve ser apresentada, no mínimo, a imagem do super herói, o nome do herói, e o nome verdadeiro (Ou nome completo do personagem).
 
-* Fique a vontade para adicionar outros atributos ou informações sobre o personagem na listagem, seja diferenciado. 
-* Animações, transições, interações são bem vindas também, seja curioso. 
-* Você não será obrigado a utilizar algum framework específico ou linguagem como VUE.JS, React ou Angular, a decisão do que utilizar é sua, queremos ver o resultado final, seja ele em HTML puro ou VisualG, ainda sim, caso queira utilizar algum framework, fique a vontade, afinal, eles são para facilitar sua vida. Seja esperto! 
+Fique a vontade para adicionar outros atributos ou informações sobre o personagem na listagem, seja diferenciado. 
+
+Animações, transições, interações são bem vindas também, seja curioso. 
+
+Você não será obrigado a utilizar algum framework específico ou linguagem como VUE.JS, React ou Angular, a decisão do que utilizar é sua, queremos ver o resultado final, seja ele em HTML puro ou VisualG, ainda sim, caso queira utilizar algum framework, fique a vontade, afinal, eles são para facilitar sua vida. Seja esperto! 
 
 Aqui vai uma dica, o site: https://www.marvel.com/characters, apresenta alguns heróis com seus respectivos nomes, você pode usar essa sessão como referência visual para lhe ajudar a compreender o desafio, entretanto, faça da forma e com o Design que achar melhor. Lembrando que não será nada legal se você copiar códigos prontos de front-end, mas utilizar imagens como co-relato é sempre uma boa estratégia. Seja justo! 
 
